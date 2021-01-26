@@ -1,4 +1,4 @@
 # Ignore files
 *.env
 *.log
-*.json
+*.DEPRECATED

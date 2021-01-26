@@ -1,0 +1,40 @@
+{
+  "web": [
+    {
+      "title": "PS5 Digital",
+      "web_code": "14962184",
+      "name": "PlayStation 5 Digital Edition Console - Online Only",
+      "seller": "bestbuy"
+    },
+    {
+      "title": "PS5 Disc",
+      "web_code": "14962185",
+      "name": "PlayStation 5 Console - Online Only",
+      "seller": "bestbuy"
+    },
+    {
+      "title": "PS5 Disc",
+      "web_code": "B08GSC5D9G",
+      "name": "PlayStation 5 Console - PlayStation 5 Edition",
+      "seller": "amazon"
+    },
+    {
+      "title": "PS5 Digital",
+      "web_code": "B08GS1N24H",
+      "name": "PlayStation 5 Digital Edition",
+      "seller": "amazon"
+    },
+    {
+      "title": "PS5 Disc",
+      "web_code": "6000202198562",
+      "name": "PlayStation®5 console",
+      "seller": "walmart"
+    },
+    {
+      "title": "PS5 Digital",
+      "web_code": "6000202198823",
+      "name": "PlayStation®5 Digital Edition",
+      "seller": "walmart"
+    }
+  ]
+}
