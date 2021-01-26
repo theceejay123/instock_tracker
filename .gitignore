@@ -1,5 +1,6 @@
 # Ignore files
 *.env
 *.log
+*.old
 *.DEPRECATED
 __pycache__
