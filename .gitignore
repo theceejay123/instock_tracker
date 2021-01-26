@@ -2,3 +2,4 @@
 *.env
 *.log
 *.DEPRECATED
+__pycache__

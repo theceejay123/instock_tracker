@@ -17,10 +17,10 @@ class ChromeConfig:
     return webdriver.ChromeOptions()
 
   def set_ignore_certs_error(self, options):
-    options.add_arguement('--ignore-certificate-server')
+    options.add_argument('--ignore-certificate-errors')
 
   def set_browser_as_incognito(self, options):
-    options.add_arguement('--incognito')
+    options.add_argument('--incognito')
 
   def set_automation_as_headless(self, options):
-    options.add_arguement('--headless')
+    options.add_argument('--headless')
