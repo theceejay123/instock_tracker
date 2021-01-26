@@ -6,9 +6,7 @@ import json
 import time
 from selenium.webdriver.common.keys import Keys
 from chromium_config import ChromeConfig
-from amazon_api import AmazonAPI
-from bestbuy_api import BestbuyAPI
-from walmart_api import  WalmartAPI
+from web_api import AmazonAPI, WalmartAPI, BestbuyAPI
 
 from selenium.common.exceptions import NoSuchElementException
 from datetime import datetime
